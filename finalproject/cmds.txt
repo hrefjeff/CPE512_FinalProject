@@ -1,0 +1,2 @@
+scp -i cpe512.pem cpe512.pem ec2-user@3.91.59.140:/home/ec2-user
+ssh -i ~/.ssh/cpe512.pem ec2-user@3.91.59.140

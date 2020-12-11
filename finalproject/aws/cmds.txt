@@ -1,0 +1,17 @@
+1. create executable
+
+mpicc heat_2d_loc_blk_MPI.c -o heat2d
+
+2. submit job: 
+
+qsub run.sh
+
+
+3. monitor by either:
+
+    a) UI: https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances
+    b) Cmd line: qstat
+
+4. view results
+
+cat <name of run file>.o<num>

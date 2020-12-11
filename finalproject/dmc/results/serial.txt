@@ -1,0 +1,3 @@
+uahcls21@dmcvlogin4:2D-Serial> mpirun -np 1 serial
+Execution Time = 22.427406 Seconds
+64 bit Checksum = 8952557390429376523

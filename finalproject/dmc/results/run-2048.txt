@@ -1,0 +1,4 @@
+2  : Execution Time = 1.164760 Seconds
+4  : Execution Time = 0.602867 Seconds
+8  : Execution Time = 0.318540 Seconds
+16 : Execution Time = 0.168731 Seconds

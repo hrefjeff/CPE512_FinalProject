@@ -1,0 +1,3 @@
+[ec2-user@ip-10-0-0-210 serial]$ cat run.sh.o36
+Execution Time = 13.072665 Seconds
+64 bit Checksum = 8952557390429376523
